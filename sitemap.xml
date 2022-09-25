@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/first_post/</loc><lastmod>2022-09-25T16:13:41&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2022-09-25T16:13:41&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2022-09-25T16:13:41&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>https://github.com/xiaoyingZhou618/xiaoyingZhou618.github.io.git/posts/first_post/</loc><lastmod>2022-09-25T16:13:41&#43;08:00</lastmod></url><url>
+            <loc>https://github.com/xiaoyingZhou618/xiaoyingZhou618.github.io.git/</loc><lastmod>2022-09-25T16:13:41&#43;08:00</lastmod></url><url>
+            <loc>https://github.com/xiaoyingZhou618/xiaoyingZhou618.github.io.git/posts/</loc><lastmod>2022-09-25T16:13:41&#43;08:00</lastmod></url><url>
+            <loc>https://github.com/xiaoyingZhou618/xiaoyingZhou618.github.io.git/categories/</loc></url><url>
+            <loc>https://github.com/xiaoyingZhou618/xiaoyingZhou618.github.io.git/tags/</loc></url></urlset>
